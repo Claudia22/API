@@ -1,0 +1,26 @@
+{
+  "name": "cocktails",
+  "version": "1.0.0",
+  "description": "simple cocktails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+},
+  },
+  "author": "Claudia Ifrim",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudia22/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Claudia22/API/issues"
+  },
+  "homepage": "https://github.com/Claudia22/API#readme"
+}
