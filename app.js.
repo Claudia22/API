@@ -1,0 +1,12 @@
+var myApp = angular.module('myApp', ['ngRoute']);
+
+myApp.config(function($routeProvider){
+	$routeProvider.when('/', {
+		controller: 'CocktailColler',
+		templateUrl: 'views/books.html'
+	});
+	.when('/cocktails,' {
+		controller: 'CocktailColler',
+		templateUrl: 'views/books.html'
+	});
+});
